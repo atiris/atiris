@@ -1,10 +1,14 @@
 ### Hi there 👋
+Hi, I'm [Windard](https://windard.com) 👋
+
+![programming age](https://img.shields.io/badge/programming%20age-22y-e06666)
+![focus](https://img.shields.io/badge/focus-databases%20|%20typescript%20|%20c#-f6b26b)
+![living](https://img.shields.io/badge/living-slovakia-93c47d)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=atiris.github.profile)
+
+[![Atiris public github stats](https://github-readme-stats.vercel.app/api?username=atiris&show_icons=true)](https://github.com/atiris)
 
 <!--
-**atiris/atiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

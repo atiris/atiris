@@ -11,6 +11,7 @@
 - 🚀 I'm currently working on trading desktop application.
 - 💡 I’m curious about physics, spa, AI, js frontend libs.
 
+<!-- current status: mind open, perception: positive, world: full of opportunities, computer: ready, programming: let's do it -->
 
 ## Skills
 

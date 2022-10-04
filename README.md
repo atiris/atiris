@@ -1,9 +1,8 @@
 ### Hi there 👋
-Hi, I'm [Windard](https://windard.com) 👋
 
 ![programming age](https://img.shields.io/badge/programming%20age-22y-e06666)
-![focus](https://img.shields.io/badge/focus-databases%20|%20typescript%20|%20c#-f6b26b)
-![living](https://img.shields.io/badge/living-slovakia-93c47d)
+![focus](https://img.shields.io/badge/focus-databases%20|%20typescript%20|%20c%23-f6b26b)
+![living](https://img.shields.io/badge/living-slovakia-76a5af)
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=atiris.github.profile)
 
 [![Atiris public github stats](https://github-readme-stats.vercel.app/api?username=atiris&show_icons=true)](https://github.com/atiris)

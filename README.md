@@ -1,4 +1,4 @@
-## Hi, Jozef Pažin here
+<img src="background-top-min.svg" alt="hi i am atiris" width="100%" />
 
 ![programming age](https://img.shields.io/badge/programming%20age-22y-e74640)
 ![main focus](https://img.shields.io/badge/main%20focus-databases%20|%20typescript%20|%20c%23-866210)
@@ -81,3 +81,5 @@
 </a>
 -->
 </p>
+
+<img src="background-bottom-min.svg" alt="hi i am atiris" width="100%" />

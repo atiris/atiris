@@ -45,32 +45,32 @@ Below are the technologies and tools I worked with. That said, there are some pr
 
 ### What I use now
 
-![MySQL](https://img.shields.io/badge/MySQL-3f51b5?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f51b5?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Firebird](https://img.shields.io/badge/Firebird-3f51b5?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-3f51b5?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Tabby](https://img.shields.io/badge/Tabby-3f51b5?style=for-the-badge&logo=GNOMETerminal&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-3f51b5?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f51b5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-3f51b5?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-3f51b5?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Tabby](https://img.shields.io/badge/Tabby-3f51b5?style=for-the-badge&logo=GNOMETerminal&logoColor=white)
 
 ### What I worked with
 
-![SQlite](https://img.shields.io/badge/SQlite-027db4?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-027db4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48cGF0aCBzdHJva2U9IndoaXRlIiBmaWxsPSJ3aGl0ZSIgZD0iTTI3Ny43NCAzMTIuOWM5LjgtNi43IDIzLjQtMTIuNSAyMy40LTEyLjVzLTM4LjcgNy03Ny4yIDEwLjJjLTQ3LjEgMy45LTk3LjcgNC43LTEyMy4xIDEuMy02MC4xLTggMzMtMzAuMSAzMy0zMC4xcy0zNi4xLTIuNC04MC42IDE5Yy01Mi41IDI1LjQgMTMwIDM3IDIyNC41IDEyLjF6bS04NS40LTMyLjFjLTE5LTQyLjctODMuMS04MC4yIDAtMTQ1LjhDMjk2IDUzLjIgMjQyLjg0IDAgMjQyLjg0IDBjMjEuNSA4NC41LTc1LjYgMTEwLjEtMTEwLjcgMTYyLjYtMjMuOSAzNS45IDExLjcgNzQuNCA2MC4yIDExOC4yem0xMTQuNi0xNzYuMmMuMSAwLTE3NS4yIDQzLjgtOTEuNSAxNDAuMiAyNC43IDI4LjQtNi41IDU0LTYuNSA1NHM2Mi43LTMyLjQgMzMuOS03Mi45Yy0yNi45LTM3LjgtNDcuNS01Ni42IDY0LjEtMTIxLjN6bS02LjEgMjcwLjVhMTIuMTkgMTIuMTkgMCAwIDEtMiAyLjZjMTI4LjMtMzMuNyA4MS4xLTExOC45IDE5LjgtOTcuM2ExNy4zMyAxNy4zMyAwIDAgMC04LjIgNi4zIDcwLjQ1IDcwLjQ1IDAgMCAxIDExLTNjMzEtNi41IDc1LjUgNDEuNS0yMC42IDkxLjR6TTM0OCA0MzcuNHMxNC41IDExLjktMTUuOSAyMS4yYy01Ny45IDE3LjUtMjQwLjggMjIuOC0yOTEuNi43LTE4LjMtNy45IDE2LTE5IDI2LjgtMjEuMyAxMS4yLTIuNCAxNy43LTIgMTcuNy0yLTIwLjMtMTQuMy0xMzEuMyAyOC4xLTU2LjQgNDAuMkMyMzIuODQgNTA5LjQgNDAxIDQ2MS4zIDM0OCA0MzcuNHpNMTI0LjQ0IDM5NmMtNzguNyAyMiA0Ny45IDY3LjQgMTQ4LjEgMjQuNWExODUuODkgMTg1Ljg5IDAgMCAxLTI4LjItMTMuOGMtNDQuNyA4LjUtNjUuNCA5LjEtMTA2IDQuNS0zMy41LTMuOC0xMy45LTE1LjItMTMuOS0xNS4yem0xNzkuOCA5Ny4yYy03OC43IDE0LjgtMTc1LjggMTMuMS0yMzMuMyAzLjYgMC0uMSAxMS44IDkuNyA3Mi40IDEzLjYgOTIuMiA1LjkgMjMzLjgtMy4zIDIzNy4xLTQ2LjkgMCAwLTYuNCAxNi41LTc2LjIgMjkuN3pNMjYwLjY0IDM1M2MtNTkuMiAxMS40LTkzLjUgMTEuMS0xMzYuOCA2LjYtMzMuNS0zLjUtMTEuNi0xOS43LTExLjYtMTkuNy04Ni44IDI4LjggNDguMiA2MS40IDE2OS41IDI1LjlhNjAuMzcgNjAuMzcgMCAwIDEtMjEuMS0xMi44eiIvPjwvc3ZnPg==&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-027db4?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-027db4?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-027db4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-027db4?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-027db4?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-027db4?style=for-the-badge&logo=Apache&logoColor=white)&nbsp;
+![SQlite](https://img.shields.io/badge/SQlite-027db4?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-027db4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48cGF0aCBzdHJva2U9IndoaXRlIiBmaWxsPSJ3aGl0ZSIgZD0iTTI3Ny43NCAzMTIuOWM5LjgtNi43IDIzLjQtMTIuNSAyMy40LTEyLjVzLTM4LjcgNy03Ny4yIDEwLjJjLTQ3LjEgMy45LTk3LjcgNC43LTEyMy4xIDEuMy02MC4xLTggMzMtMzAuMSAzMy0zMC4xcy0zNi4xLTIuNC04MC42IDE5Yy01Mi41IDI1LjQgMTMwIDM3IDIyNC41IDEyLjF6bS04NS40LTMyLjFjLTE5LTQyLjctODMuMS04MC4yIDAtMTQ1LjhDMjk2IDUzLjIgMjQyLjg0IDAgMjQyLjg0IDBjMjEuNSA4NC41LTc1LjYgMTEwLjEtMTEwLjcgMTYyLjYtMjMuOSAzNS45IDExLjcgNzQuNCA2MC4yIDExOC4yem0xMTQuNi0xNzYuMmMuMSAwLTE3NS4yIDQzLjgtOTEuNSAxNDAuMiAyNC43IDI4LjQtNi41IDU0LTYuNSA1NHM2Mi43LTMyLjQgMzMuOS03Mi45Yy0yNi45LTM3LjgtNDcuNS01Ni42IDY0LjEtMTIxLjN6bS02LjEgMjcwLjVhMTIuMTkgMTIuMTkgMCAwIDEtMiAyLjZjMTI4LjMtMzMuNyA4MS4xLTExOC45IDE5LjgtOTcuM2ExNy4zMyAxNy4zMyAwIDAgMC04LjIgNi4zIDcwLjQ1IDcwLjQ1IDAgMCAxIDExLTNjMzEtNi41IDc1LjUgNDEuNS0yMC42IDkxLjR6TTM0OCA0MzcuNHMxNC41IDExLjktMTUuOSAyMS4yYy01Ny45IDE3LjUtMjQwLjggMjIuOC0yOTEuNi43LTE4LjMtNy45IDE2LTE5IDI2LjgtMjEuMyAxMS4yLTIuNCAxNy43LTIgMTcuNy0yLTIwLjMtMTQuMy0xMzEuMyAyOC4xLTU2LjQgNDAuMkMyMzIuODQgNTA5LjQgNDAxIDQ2MS4zIDM0OCA0MzcuNHpNMTI0LjQ0IDM5NmMtNzguNyAyMiA0Ny45IDY3LjQgMTQ4LjEgMjQuNWExODUuODkgMTg1Ljg5IDAgMCAxLTI4LjItMTMuOGMtNDQuNyA4LjUtNjUuNCA5LjEtMTA2IDQuNS0zMy41LTMuOC0xMy45LTE1LjItMTMuOS0xNS4yem0xNzkuOCA5Ny4yYy03OC43IDE0LjgtMTc1LjggMTMuMS0yMzMuMyAzLjYgMC0uMSAxMS44IDkuNyA3Mi40IDEzLjYgOTIuMiA1LjkgMjMzLjgtMy4zIDIzNy4xLTQ2LjkgMCAwLTYuNCAxNi41LTc2LjIgMjkuN3pNMjYwLjY0IDM1M2MtNTkuMiAxMS40LTkzLjUgMTEuMS0xMzYuOCA2LjYtMzMuNS0zLjUtMTEuNi0xOS43LTExLjYtMTkuNy04Ni44IDI4LjggNDguMiA2MS40IDE2OS41IDI1LjlhNjAuMzcgNjAuMzcgMCAwIDEtMjEuMS0xMi44eiIvPjwvc3ZnPg==&logoColor=white)
+![Python](https://img.shields.io/badge/Python-027db4?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-027db4?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-027db4?style=for-the-badge&logo=php&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-027db4?style=for-the-badge&logo=javascript&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-027db4?style=for-the-badge&logo=jquery&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-027db4?style=for-the-badge&logo=Apache&logoColor=white)
 
 ### Technologies and tools
 
-![Linux](https://img.shields.io/badge/Linux-009688?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-009688?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/npm-009688?style=for-the-badge&logo=pnpm&logoColor=white)&nbsp;
-![StackBlitz](https://img.shields.io/badge/StackBlitz-009688?style=for-the-badge&logo=StackBlitz&logoColor=white)&nbsp;
-![Gimp](https://img.shields.io/badge/Gimp-009688?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
-![Inkscape](https://img.shields.io/badge/Inkscape-009688?style=for-the-badge&logo=Inkscape&logoColor=white)&nbsp;
-![Shotcut](https://img.shields.io/badge/Shotcut-009688?style=for-the-badge&logo=shotcut&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-009688?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-009688?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-009688?style=for-the-badge&logo=pnpm&logoColor=white)
+![StackBlitz](https://img.shields.io/badge/StackBlitz-009688?style=for-the-badge&logo=StackBlitz&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-009688?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-009688?style=for-the-badge&logo=Inkscape&logoColor=white)
+![Shotcut](https://img.shields.io/badge/Shotcut-009688?style=for-the-badge&logo=shotcut&logoColor=white)
 
 <details>
   <summary>

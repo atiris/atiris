@@ -121,4 +121,4 @@ Contacts and links to social networks where you can occasionally find me (if I'm
 
 <img src="background-bottom-min.svg" alt="hi i am atiris" width="100%" />
 
-I hope you are well and I wish you all the best.
+I hope you are well and I wish you all the best 💖.

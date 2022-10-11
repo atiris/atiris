@@ -60,6 +60,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![StackBlitz](https://img.shields.io/badge/StackBlitz-05122A?style=flat&logo=StackBlitz&logoColor=white)&nbsp;
+![Gimp](https://img.shields.io/badge/Gimp-05122A?style=flat&logo=gimp&logoColor=white)&nbsp;
 
 <details>
   <summary>

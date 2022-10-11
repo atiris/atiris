@@ -4,14 +4,26 @@
 ![main focus](https://img.shields.io/badge/main%20focus-databases%20|%20typescript%20|%20c%23-866210)
 ![living country](https://img.shields.io/badge/living%20country-slovakia-1c8567)
 ![tools](https://img.shields.io/badge/tools-visual%20studio%20|%20vs%20code%20|%20dbeaver%20|%20tabby-1853a4)
-![os](https://img.shields.io/badge/os-debian%20|%20windows-741b47)
+![os](https://img.shields.io/badge/os-windows%20|%20debian%20server-741b47)
 
-<!-- ## Overview / Who am I? TODO: as badges .. startrek fan, curious TensorFlow, waze user, Wikipedia contributor -->
+## Personality
 
-- 🚀 I'm currently working on trading desktop application.
-- 💡 I’m curious about physics, spa, AI, js frontend libs.
+![mind](https://img.shields.io/badge/mind-open-e74640)
+![perception](https://img.shields.io/badge/perception-positive-e74640)
+![world](https://img.shields.io/badge/world-full%20of%20opportunities-e74640)
+![computer](https://img.shields.io/badge/computer-ready%20for%20programming-e74640)
 
-<!-- current status: mind open, perception: positive, world: full of opportunities, computer: ready, programming: let's do it -->
+## Work
+
+![employer](https://img.shields.io/badge/employer-HeyPay-e74640)
+![job](https://img.shields.io/badge/job-Head%20of%20the%20IT%20department-e74640)
+![project](https://img.shields.io/badge/project-leading%20|%20optimization%20|%20development%20|%20support-e74640)
+
+## Privacy
+
+![project](https://img.shields.io/badge/project-trading%20desktop%20application-e74640)
+![interests](https://img.shields.io/badge/interests-AI%20|%20SPA%20|%20js%20frontend%20|%20physics-e74640)
+![snippet](https://img.shields.io/badge/snippet-StarTrek%20|%20TensorFlow%20|%20Waze%20user%20|%20Wikipedia%20contributor-e74640)
 
 ## Skills
 
@@ -23,6 +35,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-a0400F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Firebird](https://img.shields.io/badge/Firebird-316192?style=flat&logo=FirefoxBrowser&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/Shotcut-115C77?style=flat&logo=shotcut&logoColor=white)&nbsp;
 
@@ -44,10 +57,11 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![StackBlitz](https://img.shields.io/badge/StackBlitz-05122A?style=flat&logo=StackBlitz&logoColor=white)&nbsp;
 
 <details>
   <summary>
-    <h3>GitHub statistics</h3>
+    <h3>GitHub statistics (only public repos)</h3>
   </summary>
   <p>
     <a href="https://github.com/atiris">
@@ -67,12 +81,16 @@
   <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="badge">
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
+<a href="mailto:atiris@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-10A770?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
 </a>
 &nbsp;
-<a href="#">
+<a href="https://www.linkedin.com/in/jozef-pazin-b7782017/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
+</a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCAZhBIUjKE8MMqvLwhlUB2g">
+  <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="badge">
 </a>
 <!--
 &nbsp;

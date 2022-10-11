@@ -1,5 +1,7 @@
 <img src="background-top-min.svg" alt="hi i am atiris" width="100%" />
 
+## Jozef Pažin
+
 ![programming age](https://img.shields.io/badge/programming%20age-22y-e74640)
 ![main focus](https://img.shields.io/badge/main%20focus-databases%20|%20typescript%20|%20c%23-866210)
 ![living country](https://img.shields.io/badge/living%20country-slovakia-1c8567)
@@ -87,6 +89,10 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/jozef-pazin-b7782017/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
+</a>
+&nbsp;
+<a href="https://www.facebook.com/jozef.pazin">
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="badge">
 </a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCAZhBIUjKE8MMqvLwhlUB2g">

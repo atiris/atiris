@@ -12,7 +12,7 @@
 ![tools](https://img.shields.io/badge/tools-visual%20studio%20|%20vs%20code%20|%20dbeaver%20|%20tabby-1853a4?style=for-the-badge)
 ![os](https://img.shields.io/badge/os-windows%20|%20debian%20server-741b47?style=for-the-badge)
 
-I am a general IT expert, specialized in the areas of database management, SQL query optimization, company software development and team management. After 15 years working in the IT sector I have strong technical knowledge as well as excellent interpersonal skills, enabling me to interact with a wide range of partners. I look forward to challenges that will push me forward and further improve my IT skills. I like to use my software knowledge for the benefit of colleagues and clients.
+I am a general IT expert, specialized in the areas of database management, SQL query optimization, company software development and team management. After 15 years working in the IT sector I have strong technical **knowledge** as well as excellent interpersonal skills, enabling me to interact with a wide range of partners. I look forward to challenges that will push me forward and further improve my IT skills. I like to use my software knowledge for the benefit of colleagues and clients.
 
 <img src="header-personality.svg" alt="Personality" width="100%" />
 
@@ -21,7 +21,7 @@ I am a general IT expert, specialized in the areas of database management, SQL q
 ![world](https://img.shields.io/badge/world-full%20of%20opportunities-f44336?style=for-the-badge)
 ![computer](https://img.shields.io/badge/computer-ready%20for%20programming-f44336?style=for-the-badge)
 
-I try to see things positively and focus mainly on solving situations. I can work very well independently, but I also have experience in managing a small team. I don't like incomplete requests and I always try to teach the client to enter a request so that it is clear, replicable and complete.
+I try to see things positively and focus mainly on **solving** situations. I can work very well independently, but I also have experience in managing a small team. I don't like incomplete requests and I always try to teach the client to enter a request so that it is clear, replicable and complete.
 
 <img src="header-work.svg" alt="Work" width="100%" />
 
@@ -29,7 +29,7 @@ I try to see things positively and focus mainly on solving situations. I can wor
 ![job](https://img.shields.io/badge/job-Head%20of%20the%20IT%20department-e91e63?style=for-the-badge)
 ![project](https://img.shields.io/badge/project-leading%20|%20optimization%20|%20development%20|%20support-e91e63?style=for-the-badge)
 
-I follow the principles of simplifying requirements and corrections until they cover the essence of the problem, removing unnecessary parts of processes, optimizing and simplifying the development cycle, speeding up development and automating activities.
+I follow the principles of **simplifying** requirements and corrections until they cover the essence of the problem, removing unnecessary parts of processes, optimizing and simplifying the development cycle, speeding up development and automating activities.
 
 <img src="header-privacy.svg" alt="Privacy" width="100%" />
 
@@ -37,11 +37,11 @@ I follow the principles of simplifying requirements and corrections until they c
 ![interests](https://img.shields.io/badge/interests-AI%20|%20SPA%20|%20js%20frontend%20|%20physics-9c27b0?style=for-the-badge)
 ![snippet](https://img.shields.io/badge/snippet-StarTrek%20|%20TensorFlow%20|%20Waze%20user%20|%20Wikipedia%20contributor-9c27b0?style=for-the-badge)
 
-Although I am trying to educate myself in software development and database management, family takes precedence over private projects. I like to visit the surrounding forests or use my bicycle to unwind from work tasks.
+Although I am trying to educate myself in software development and database management, **family** takes precedence over private projects. I like to visit the surrounding forests or use my bicycle to unwind from work tasks.
 
 <img src="header-skills.svg" alt="Skills" width="100%" />
 
-Below are the technologies and tools I worked with. That said, there are some projects where I've actually used them. However, the speed of advancement of technological development allows me to devote myself to only part of the technologies, primarily those that I use in private and work projects.
+Below are the technologies and tools I worked with. That said, there are some projects where I've actually used them. However, the **speed** of advancement of technological development allows me to devote myself to only part of the technologies, primarily those that I use in private and work projects.
 
 ### What I use now
 
@@ -89,7 +89,7 @@ Below are the technologies and tools I worked with. That said, there are some pr
 
 <img src="header-links.svg" alt="Links" width="100%" />
 
-Contacts and links to social networks where you can occasionally find me (if I'm not programming or working).
+Contacts and links to social **networks** where you can occasionally find me (if I'm not programming or working).
 
 <p align="center">
 <a href="https://stackoverflow.com/users/659223/atiris">
@@ -121,4 +121,4 @@ Contacts and links to social networks where you can occasionally find me (if I'm
 
 <img src="background-bottom-min.svg" alt="hi i am atiris" width="100%" />
 
-I hope you are well and I wish you all the best 💖.
+I hope you are well and I wish you all the **best** 💖.

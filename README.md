@@ -100,7 +100,7 @@ Contacts and links to social **networks** where you can occasionally find me (if
   <img src="https://img.shields.io/badge/Gmail-10A770?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jozef-pazin-b7782017/">
+<a href="https://www.linkedin.com/in/jozef-pazin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge">
 </a>
 &nbsp;

@@ -45,9 +45,10 @@ Below are the technologies and tools I worked with. That said, there are some pr
 
 ### What I use now
 
-![MySQL](https://img.shields.io/badge/MySQL-3f51b5?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f51b5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-3f51b5?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C_Sharp-3f51b5?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f51b5?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3f51b5?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-3f51b5?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Tabby](https://img.shields.io/badge/Tabby-3f51b5?style=for-the-badge&logo=GNOMETerminal&logoColor=white)
 
